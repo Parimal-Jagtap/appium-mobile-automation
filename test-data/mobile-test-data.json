@@ -1,0 +1,21 @@
+{
+  "validUser": {
+    "username": "testuser@wallet.com",
+    "password": "TestPass@123"
+  },
+  "invalidUser": {
+    "username": "invalid@wallet.com",
+    "password": "WrongPass"
+  },
+  "wallet": {
+    "addAmount": "500",
+    "transferAmount": "1000",
+    "beneficiaryAccount": "1234567890"
+  },
+  "payment": {
+    "billType": "Electricity",
+    "billAmount": "750",
+    "mobileNumber": "9999999999",
+    "rechargeAmount": "199"
+  }
+}
